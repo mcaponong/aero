@@ -1,7 +1,7 @@
 {"access": 
 [
 
-{"id": "971423836", "rights": 2047, "name": "Operator 1","password": "cace01043ab2f522509ebb5eb0a51e51a22e721b545dc00adb5fd1444ca7045d", "salt": "451e94d4f97d26a6946f6848e99af150", "hash": "PBKDF2"},
+{"id": "971423836", "rights": 2047, "name": "Operator 1","password": "393bb70b185d95d369d37b142f5b94b6ee66c8d4cf46056937f062efbc4a4d52", "salt": "e2e436aa46c7130a8722ff7ea3d72272", "hash": "PBKDF2"},
 
 {"id": "865834735", "rights": 2047, "name": "Operator 2","password": "cace01043ab2f522509ebb5eb0a51e51a22e721b545dc00adb5fd1444ca7045d", "salt": "451e94d4f97d26a6946f6848e99af150", "hash": "PBKDF2"}
   
